@@ -1,7 +1,14 @@
 *.tar.gz
-*.csv
 *.pem
 *.pyc
 .vscode/
 data/archive
 data/raw
+data/final_ngram_vocab_articles.csv
+data/ngram_articles.csv
+pbs_fox_2_gram_counts.csv
+pbs_fox_3_gram_counts.csv
+vox_fox_2_gram_counts.csv
+vox_fox_3_gram_counts.csv
+vox_pbs_2_gram_counts.csv
+vox_pbs_3_gram_counts.csv
