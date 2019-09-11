@@ -1,0 +1,7 @@
+*.tar.gz
+*.csv
+*.pem
+*.pyc
+.vscode/
+data/archive
+data/raw
